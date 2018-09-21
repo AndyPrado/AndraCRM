@@ -1,6 +1,6 @@
 using System;
 
-namespace AndraCRM.Models
+namespace AndraCRM.Models.ViewModels
 {
     public class ErrorViewModel
     {

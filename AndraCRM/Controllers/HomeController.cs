@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AndraCRM.Models;
+using AndraCRM.Models.ViewModels;
 
 namespace AndraCRM.Controllers
 {
